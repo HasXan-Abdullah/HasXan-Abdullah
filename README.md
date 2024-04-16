@@ -18,8 +18,8 @@
 - 📫 How to reach me: **hassanabdullah.dev.01@gmail.com**
 
 ### Connect with Me 
-- ![ClassicGmailLogoGIF](https://github.com/HasXan-Abdullah/HasXan-Abdullah/assets/62098346/56b19c1f-c3ed-4146-bb47-5598333cfafb)
- **hassanabdullah.dev.01@gmail.com**
+- Gmail **hassanabdullah.dev.01@gmail.com**
+- LinkedIn **https://www.linkedin.com/in/hassan-abdullah-a609081a8/**
 <!-- Add your social media links here -->
 
 ### Languages and Tools
@@ -41,7 +41,7 @@
   </a> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" style="margin-right: 10px;" /> 
   </a> 
