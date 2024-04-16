@@ -5,7 +5,7 @@
 <h3 align="center">Enthusiastic MERN Stack Developer | Pakistan</h3>
 
 <p align="center"> 
-  <img width="100px" hight="100px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Pouting%20Light%20Skin%20Tone.png" alt="Person Pouting Light Skin Tone" width="25" height="25" />
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Pouting%20Light%20Skin%20Tone.png" alt="Person Pouting Light Skin Tone" width="25" height="25" />
 <br></br>
   <img src="https://komarev.com/ghpvc/?username=hasxan-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="hasxan-abdullah" /> 
 </p>
