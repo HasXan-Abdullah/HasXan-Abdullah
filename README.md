@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi there, I'm Hassan Abdullah 👋</h1>
 <h3 align="center">Enthusiastic MERN Stack Developer | Pakistan</h3>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Pouting%20Light%20Skin%20Tone.png" alt="Person Pouting Light Skin Tone" width="25" height="25" />
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hasxan-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="hasxan-abdullah" /> 
 </p>
