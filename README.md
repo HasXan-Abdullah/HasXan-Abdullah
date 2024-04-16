@@ -21,58 +21,42 @@
 <!-- Add your social media links here -->
 
 ### Languages and Tools
-<style>
-  .heart-icon {
-    margin-right: 10px;
-    transform: translateY(-20px);
-  }
-
-  .heart-icon:nth-child(1) { transform: translateY(-15px) translateX(-20px); }
-  .heart-icon:nth-child(2) { transform: translateY(-15px) translateX(0); }
-  .heart-icon:nth-child(3) { transform: translateY(-15px) translateX(20px); }
-
-  .heart-icon:nth-child(4) { transform: translateY(0) translateX(-30px); }
-  .heart-icon:nth-child(5) { transform: translateY(0) translateX(-10px); }
-  .heart-icon:nth-child(6) { transform: translateY(0) translateX(10px); }
-  .heart-icon:nth-child(7) { transform: translateY(0) translateX(30px); }
-
-  .heart-icon:nth-child(8) { transform: translateY(15px) translateX(-20px); }
-  .heart-icon:nth-child(9) { transform: translateY(15px) translateX(0); }
-  .heart-icon:nth-child(10) { transform: translateY(15px) translateX(20px); }
-</style>
-
 <p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" class="heart-icon" />
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="margin-right: 10px; transform: translateX(-20px) translateY(-15px);" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" class="heart-icon" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px; transform: translateX(10px) translateY(-15px);" />
   </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" class="heart-icon" />
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="margin-right: 10px; transform: translateX(-10px) translateY(-15px);" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" class="heart-icon" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px; transform: translateX(20px) translateY(-15px);" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="heart-icon" />
-  </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" class="heart-icon" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" class="heart-icon" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" class="heart-icon" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" class="heart-icon" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" class="heart-icon" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px; transform: translateX(0px) translateY(-15px);" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" style="margin-right: 10px; transform: translateX(-30px) translateY(0px);" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px; transform: translateX(30px) translateY(0px);" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px; transform: translateX(0px) translateY(0px);" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 10px; transform: translateX(0px) translateY(0px);" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 10px; transform: translateX(0px) translateY(0px);" />
+  </a>
+</p>
+
 
 
 
