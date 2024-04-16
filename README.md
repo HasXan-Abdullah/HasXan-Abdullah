@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">via GIPHY</a></p>
+
 <h1 align="center">Hi there, I'm Hassan Abdullah 👋</h1>
 <h3 align="center">Enthusiastic MERN Stack Developer | Pakistan</h3>
 
